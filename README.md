@@ -30,7 +30,7 @@ After you have installed npm, do the following steps to setup the repo on your d
    ```sh
    npm install
    ```
-## Run unit test
+### Run unit test
 
 ```shell
 npm run test
