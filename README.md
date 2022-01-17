@@ -22,7 +22,7 @@ Before you start using the Profit Sharing System library. You need to install np
 
 After you have installed npm, do the following steps to setup the repo on your device
 
-1. . Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/nlsh710599/Profit-Sharing-System.git
    ```
